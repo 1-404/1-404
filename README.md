@@ -17,8 +17,10 @@ Expanding from there.
 
 Capabilities: advanced on-device voice processing, distributed mics,
 invoke any Android intent, interfaces for broader automation platforms.
+
 Privacy: no accounts by default — data stays local unless you explicitly
 enable otherwise.
+
 Status: part open-source, part private — public docs & examples coming.
 Contact: VantEdge.voice@proton.me
 

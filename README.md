@@ -1,16 +1,20 @@
-## Hi there 👋
+Founder — VantEdge
 
-<!--
-**1-404/1-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Mathematical not a promise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+intent.fire()
+// we stop here
+
+Stop the snoop
+
+VantEdge builds a local, account‑free voice OS layer for Android that leverages home automation and broader automation platforms. Originally built as a workplace voice assistant for noisy contractor sites, VantEdge evolved to provide robust voice detection, reliable wake‑word capture with false‑positive rejection, and on‑device processing.
+
+Stack: ESPHome → Home Assistant → VantEdge (Android) — HA and ESPHome devices are our first target; we’ll expand to a broad range of automation platforms
+Capabilities: advanced on‑device voice processing, distributed mics, can invoke any Android intent. Developing interfaces for other platforms.
+Privacy: no accounts by default — data stays local unless you explicitly enable otherwise
+Status: part open‑source, part private — public docs & examples coming
+
+Contact: VantEdge.voice@proton.me
+
+One-line: Founder @ VantEdge — local, mathematically private voice for automation.

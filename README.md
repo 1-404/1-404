@@ -1,7 +1,9 @@
 Founder — VantEdge
+
 Mathematical not a promise
 intent.fire()
 // we stop here
+
 Stop the snoop
 
 VantEdge is a local, account-free voice OS layer for Android.

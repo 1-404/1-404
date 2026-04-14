@@ -4,7 +4,7 @@ Founder — VantEdge
 Mathematical not a promise
 
 intent.fire()
-// we stop here
+\// we stop here
 
 Stop the snoop
 

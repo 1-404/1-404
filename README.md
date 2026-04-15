@@ -1,4 +1,4 @@
-Founder — VantEdge
+Founder — VantEdge Voice
 
 Mathematical not a promise
 

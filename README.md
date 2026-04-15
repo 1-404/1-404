@@ -24,4 +24,4 @@ enable otherwise.
 Status: part open-source, part private — public docs & examples coming.
 Contact: VantEdge.voice@proton.me
 
-One-line: Founder @ VantEdge — local, mathematically private voice OS layer for Android.
+One-line: Founder @ VantEdge Voice — local, mathematically private voice OS layer for Android.

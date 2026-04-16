@@ -22,7 +22,7 @@ Privacy: no accounts by default — data stays local unless you explicitly
 enable otherwise.
 
 Status: part open-source, part private — public docs & examples coming.
-Contact: dev@VantEdge.app
+Contact: dev@VantEdgevoice.app
 
 One-line: Founder @ VantEdge Voice — local, mathematically private voice OS layer for Android.
 

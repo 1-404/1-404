@@ -25,3 +25,4 @@ Status: part open-source, part private — public docs & examples coming.
 Contact: dev@VantEdge.app
 
 One-line: Founder @ VantEdge Voice — local, mathematically private voice OS layer for Android.
+**[VantEdge Voice](https://github.com/1-404/vantedge-voice)** — Local-first, mathematically private voice OS layer for Android.

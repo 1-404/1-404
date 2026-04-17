@@ -1,29 +1,23 @@
+# 1-404
+
 Founder — VantEdge Voice
 
 Mathematical not a promise
-
 intent.fire()
-
 // we stop here
-
 Stop the snoop
 
 VantEdge is a local, account-free voice OS layer for Android.
-On-device wake word, distributed mic support in testing, and on-device STT —
-invokes any Android intent with no data leaving the device.
+On-device wake word and STT. Voice invokes standard Android intents —
+no data leaves the device.
 
 First integration targets: Home Assistant and ESPHome.
-Expanding from there.
 
-Capabilities: advanced on-device voice processing,
-invoke any Android intent, interfaces for broader automation platforms.
+Status: in development. Public docs and repos coming.
 
-Privacy: no accounts by default — data stays local unless you explicitly
-enable otherwise.
-
-Status: part open-source, part private — public docs & examples coming.
 Contact: dev@VantEdgevoice.app
 
-One-line: Founder @ VantEdge Voice — local, mathematically private voice OS layer for Android.
+---
 
-**[VantEdge Voice](https://github.com/1-404/vantedge-voice)** — Local-first, mathematically private voice OS layer for Android.
+**[VantEdge Voice](https://github.com/1-404/vantedge-voice)** — Local, 
+mathematically private voice OS layer for Android.

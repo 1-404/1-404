@@ -9,13 +9,13 @@ intent.fire()
 Stop the snoop
 
 VantEdge is a local, account-free voice OS layer for Android.
-On-device wake word, distributed mic support, and on-device STT —
+On-device wake word, distributed mic support in testing, and on-device STT —
 invokes any Android intent with no data leaving the device.
 
 First integration targets: Home Assistant and ESPHome.
 Expanding from there.
 
-Capabilities: advanced on-device voice processing, distributed mics,
+Capabilities: advanced on-device voice processing,
 invoke any Android intent, interfaces for broader automation platforms.
 
 Privacy: no accounts by default — data stays local unless you explicitly

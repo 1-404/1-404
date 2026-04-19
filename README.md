@@ -1,5 +1,7 @@
 # 1-404
 
+I dont want your data. I dont want the responsibility.
+
 Founder — VantEdge Voice
 
 Mathematical not a promise

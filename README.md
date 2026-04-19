@@ -13,7 +13,7 @@ intent.fire()
 Stop the snoop
 
 VantEdge is a local, account-free voice OS layer for Android.
-On-device wake word and STT. Voice invokes standard Android intents —
+On-device wake word and STT. Vantedge
 Voice invokes standard Android intents — no audio, no transcripts, no user data leave the device.
 
 First integration targets: Home Assistant and ESPHome.
